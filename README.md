@@ -1,4 +1,4 @@
 # Our-Music-Player
 
 
-deply link : https://ourmusicsystem.netlify.app/
+deploy link : https://ourmusicsystem.netlify.app/
